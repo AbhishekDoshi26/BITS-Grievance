@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1021779148460",
+    "firebase_url": "https://bits-grievance-1c10f.firebaseio.com",
+    "project_id": "bits-grievance-1c10f",
+    "storage_bucket": "bits-grievance-1c10f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021779148460:android:02a88963ba6650d3bae909",
+        "android_client_info": {
+          "package_name": "com.bitseducampus.bits_grievance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021779148460-kft4qcsqka7eisuo553pjgfjftjm7mh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitseducampus.bits_grievance",
+            "certificate_hash": "6f276fbab0ad2a5445dd14a9f7f4aa8077bdd89b"
+          }
+        },
+        {
+          "client_id": "1021779148460-droi4emrcr24knui8v3sirmrss557rgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitseducampus.bits_grievance",
+            "certificate_hash": "6d120ce170d4b9f955f7d48bc4928ad15dc6a9c9"
+          }
+        },
+        {
+          "client_id": "1021779148460-iov4ek8lvtc4hf4fa2g7h7nd6lpveju1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIsZXXgmujnrqrhPS7sz8FRWSrRlr0Hd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021779148460-iov4ek8lvtc4hf4fa2g7h7nd6lpveju1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
